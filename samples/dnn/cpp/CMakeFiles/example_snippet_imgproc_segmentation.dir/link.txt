@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/example_snippet_imgproc_segmentation.dir/tutorial_code/snippets/imgproc_segmentation.cpp.o  -o example_snippet_imgproc_segmentation  -Wl,-rpath,/usr/local/lib /usr/local/lib/libopencv_imgproc.so.4.5.5 -lpthread /usr/local/lib/libopencv_core.so.4.5.5 

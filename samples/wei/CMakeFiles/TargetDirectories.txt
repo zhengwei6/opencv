@@ -1,0 +1,3 @@
+/home/willy/Desktop/opencv/samples/wei/CMakeFiles/rebuild_cache.dir
+/home/willy/Desktop/opencv/samples/wei/CMakeFiles/edit_cache.dir
+/home/willy/Desktop/opencv/samples/wei/CMakeFiles/Classification.dir

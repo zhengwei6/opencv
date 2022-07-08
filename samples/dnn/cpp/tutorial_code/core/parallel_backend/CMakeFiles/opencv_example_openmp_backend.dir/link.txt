@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/opencv_example_openmp_backend.dir/example-openmp.cpp.o  -o opencv_example_openmp_backend  -Wl,-rpath,/usr/local/lib /usr/local/lib/libopencv_core.so.4.5.5 /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 
